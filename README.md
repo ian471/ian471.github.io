@@ -4,19 +4,25 @@ Veteran CG animation pipeline TD with extensive experience in service-based pipe
 
 ## Experience
 
-### Lead Technical Director - Dreamworks Animation 2018-present
+### Lead Technical Director, Dreamworks Animation
+
+2018-present
 
 * Guiding workflow integration according to core pipeline redesign.
 * Overseeing implementation of a USD-based asset model architecture.
 * Leading workflow development and testing toward cloud-native production.
 
-### Specialist Technical Director - Dreamworks Animation 2015-2018
+### Specialist Technical Director, Dreamworks Animation
+
+2015-2018
 
 * Pioneered workflow redesign and reimplementation around services.
 * Architected service-based workflow software configuration system.
 * Built web tools for pipeline management.
 
-### Technical Director - Dreamworks Animation 2012-2015
+### Technical Director, Dreamworks Animation
+
+2012-2015
 
 * Supported site-to-site data transfer pipeline.
 * Developed and supported cross-pipeline data conditioning system.
@@ -24,7 +30,7 @@ Veteran CG animation pipeline TD with extensive experience in service-based pipe
 
 ## Education
 
-B.A. Computer Science University of Minnesota 2011
+B. A. Computer Science, University of Minnesota 2011
 
 ## Skills
 
