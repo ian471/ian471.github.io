@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Summary
 
-You can use the [editor on GitHub](https://github.com/ian471/ian471.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Veteran CG animation pipeline TD with extensive experience in service-based pipeline architecture and workflow integration.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Experience
 
-### Markdown
+## Lead Technical Director - Dreamworks Animation 2018-present
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Guiding workflow integration according to core pipeline redesign.
+* Overseeing implementation of a USD-based asset model architecture.
+* Leading workflow development and testing toward cloud-native production.
 
-```markdown
-Syntax highlighted code block
+## Specialist Technical Director - Dreamworks Animation 2015-2018
 
-# Header 1
-## Header 2
-### Header 3
+* Pioneered workflow redesign and reimplementation around services.
+* Architected service-based workflow software configuration system.
+* Built web tools for pipeline management.
 
-- Bulleted
-- List
+## Technical Director - Dreamworks Animation 2012-2015
 
-1. Numbered
-2. List
+* Supported site-to-site data transfer pipeline.
+* Developed and supported cross-pipeline data conditioning system.
+* Designed and developed a CG material and texture catalog service and UI.
 
-**Bold** and _Italic_ and `Code` text
+# Education
 
-[Link](url) and ![Image](src)
-```
+B.A. Computer Science University of Minnesota 2011
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Skills
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ian471/ian471.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Platforms & Paradigms
+  * CG production pipeline development and support
+  * Service development, deployment, and integration (REST, JSON)
+  * Web app design and development
+  * UX research and design process
+* CG Software
+  * Houdini
+  * Mari
+  * Maya
+  * Nuke
+  * RV
+  * Shotgun
+  * USD
+* Languages & Libraries
+  * Python, Web, Java, C++
+  * Qt, PyQt, PySide
+  * Node, React.js, Redux
+  * MongoDB, Redis, SQLite
+  * Rez
+  * OpenImageIO
+  * Docker
